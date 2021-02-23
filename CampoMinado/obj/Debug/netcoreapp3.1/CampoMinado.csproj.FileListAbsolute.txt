@@ -1,0 +1,13 @@
+/home/paulo/AEDs/CampoMinado/bin/Debug/netcoreapp3.1/CampoMinado
+/home/paulo/AEDs/CampoMinado/bin/Debug/netcoreapp3.1/CampoMinado.deps.json
+/home/paulo/AEDs/CampoMinado/bin/Debug/netcoreapp3.1/CampoMinado.runtimeconfig.json
+/home/paulo/AEDs/CampoMinado/bin/Debug/netcoreapp3.1/CampoMinado.runtimeconfig.dev.json
+/home/paulo/AEDs/CampoMinado/bin/Debug/netcoreapp3.1/CampoMinado.dll
+/home/paulo/AEDs/CampoMinado/bin/Debug/netcoreapp3.1/CampoMinado.pdb
+/home/paulo/AEDs/CampoMinado/obj/Debug/netcoreapp3.1/CampoMinado.csprojAssemblyReference.cache
+/home/paulo/AEDs/CampoMinado/obj/Debug/netcoreapp3.1/CampoMinado.AssemblyInfoInputs.cache
+/home/paulo/AEDs/CampoMinado/obj/Debug/netcoreapp3.1/CampoMinado.AssemblyInfo.cs
+/home/paulo/AEDs/CampoMinado/obj/Debug/netcoreapp3.1/CampoMinado.csproj.CoreCompileInputs.cache
+/home/paulo/AEDs/CampoMinado/obj/Debug/netcoreapp3.1/CampoMinado.dll
+/home/paulo/AEDs/CampoMinado/obj/Debug/netcoreapp3.1/CampoMinado.pdb
+/home/paulo/AEDs/CampoMinado/obj/Debug/netcoreapp3.1/CampoMinado.genruntimeconfig.cache
